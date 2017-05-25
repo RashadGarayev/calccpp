@@ -79,7 +79,7 @@ int input;
         break;
     }
     default:{
-    cout<<"Secdiyiniz emeliyyat xaricindedir";
+    cout<<"Secdiyiniz, emeliyyat xaricindedir";
 
     }
 
